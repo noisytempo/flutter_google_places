@@ -1,3 +1,9 @@
+## 0.2.1
+
+- updated the `rxdart` version to 0.21.0
+- updated the `http` version to 0.12.0+1
+- updated the `google_maps_webservice` version to 0.0.11
+
 ## 0.2.0
 
 - better text theme for text input
